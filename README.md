@@ -14,8 +14,7 @@ React JS, Next JS e Angular. O servidor pode ser usado para gerenciar uma plataf
 
 ## Tecnologias utilizadas
 
-- **Node.js**: [Versão]
-- **Express**: [Versão]
+- **Node.js**: v20.18.0 
 - **MongoDB** 
 
 ## Como rodar o projeto
