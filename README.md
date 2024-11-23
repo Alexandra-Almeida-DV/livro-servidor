@@ -1,7 +1,4 @@
-﻿# livro-servidor
-# livro-servidor
 # Livro-Servidor
-
 O *livro-servidor* é um projeto de servidor baseado em Express e Mongoose, acessando o
 banco de dados MongoDB, e front-ends baseados em
 React JS, Next JS e Angular. O servidor pode ser usado para gerenciar uma plataforma de livros, onde os usuários podem buscar, cadastrar e gerenciar livros. O MongoDB armazenava dados como títulos, autores, resenhas e detalhes dos livros, enquanto o frontend fornecia uma interface de busca e visualização interativa dos livros.
